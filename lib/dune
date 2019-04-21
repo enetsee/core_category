@@ -1,0 +1,3 @@
+(library
+  (name core_category)
+  (public_name core_category))
